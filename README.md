@@ -28,7 +28,7 @@ List of the current and planned projects in this repository:
 
 Click on the links below to navigate to the individual project directories for a detailed breakdown of each analysis.
 
-#### **[https://github.com/bijay-odyssey/Regression/tree/main/housePricesModel)**
+#### **[House Price Prediction](https://github.com/bijay-odyssey/Regression/tree/main/housePricesModel)**
 
 * **Objective**: To build Regression model that predicts House Price
 * **Key Techniques**:
