@@ -1,8 +1,5 @@
 # House Prices Prediction – Ames Housing Dataset
 
-**Repository**: `Regression`
-**Subdirectory**: `housePricesModel/`
-
 ---
 
 ## Overview
