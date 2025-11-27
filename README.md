@@ -1,4 +1,4 @@
-# 📊 Regression Machine Learning Projects
+# **Regression Machine Learning Projects**
 
 Welcome to my portfolio of **Regression-focused machine learning projects**. This repository serves as a central hub for projects where I explore real-world datasets, perform detailed exploratory data analysis (EDA), preprocess data, implement various regression models, and evaluate predictive performance.
 
